@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity.SplashScreen"
-    android:background="@drawable/splash_ui"
+    android:background="@drawable/ui1"
     android:gravity="center"
     >
 
@@ -15,8 +15,7 @@
         android:layout_height="wrap_content"
         android:text="News App"
         android:textColor="#ffff"
-        android:textSize="44sp"
-        android:layout_marginTop="50dp"
+        android:textSize="64sp"
         android:textStyle="bold" />
 
 </LinearLayout>
