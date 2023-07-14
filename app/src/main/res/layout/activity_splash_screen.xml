@@ -6,17 +6,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity.SplashScreen"
-    android:background="#6CB2EA"
+    android:background="@drawable/splash_ui"
     android:gravity="center"
     >
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="shivam"
-        android:textSize="44sp"
-        android:textStyle="bold"
+        android:text="News App"
         android:textColor="#ffff"
-        />
+        android:textSize="44sp"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold" />
 
 </LinearLayout>
