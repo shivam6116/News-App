@@ -42,6 +42,7 @@
 
                         >
                     </TextView>
+
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="250dp"
@@ -50,7 +51,8 @@
                         android:layout_marginTop="8dp"
                         android:src="@drawable/image_view"
 
-                        ></ImageView>
+                        />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -59,7 +61,7 @@
                         android:textColor="#600CF6"
                         android:textSize="16sp"
 
-                        ></TextView>
+                        />
 
                     <TextView
                         android:layout_width="match_parent"
@@ -69,7 +71,7 @@
                         android:textColor="@color/black"
                         android:textSize="16sp"
 
-                        ></TextView>
+                        />
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
@@ -82,7 +84,8 @@
                 android:textColor="@color/black"
                 android:textSize="22sp"
 
-                ></TextView>
+                />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -91,7 +94,7 @@
                 android:textColor="@color/black"
                 android:textSize="20sp"
 
-                ></TextView>
+                />
 
         </LinearLayout>
 

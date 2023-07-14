@@ -18,82 +18,88 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
 
             >
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn1"
-                android:text="business"
-                android:textSize="6dp"
+                android:text="Business"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
                 android:layout_margin="6dp"
-                ></Button>
+                />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn2"
-                android:text="entertainment"
-                android:textSize="6dp"
+                android:text="Entertainment"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
-                android:layout_margin="6dp"
-                ></Button>
+                android:layout_margin="6dp" />
 
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn3"
-                android:text="general"
-                android:textSize="6dp"
+                android:text="General"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
                 android:layout_margin="6dp"
-                ></Button>
+                />
 
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn4"
-                android:text="health"
-                android:textSize="6dp"
+                android:text="Health"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
                 android:layout_margin="6dp"
-                ></Button>
+                />
 
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn5"
-                android:text="science"
-                android:textSize="6dp"
+                android:text="Science"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
                 android:layout_margin="6dp"
-                ></Button>
+                />
 
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn6"
-                android:text="sports"
-                android:textSize="6dp"
+                android:text="Sports"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
                 android:layout_margin="6dp"
-                ></Button>
+                />
 
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn7"
-                android:text="technology"
-                android:textSize="6dp"
+                android:text="Technology"
+                android:textSize="15dp"
+                android:textStyle="bold"
                 android:padding="6dp"
-                android:layout_margin="6dp"
-                ></Button>
+                android:layout_margin="6dp" />
 
         </LinearLayout>
 
